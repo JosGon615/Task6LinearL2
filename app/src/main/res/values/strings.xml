@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Task6LinearL2</string>
+    <string name="todo">TODO</string>
+    <string name="contenido">Contenido</string>
+    <string name="estrellita">Estrellita</string>
+    <string name="fecha">Fecha</string>
+    <string name="asunto">Asunto</string>
+</resources>
